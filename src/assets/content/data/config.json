@@ -1,12 +1,11 @@
 {
-    "title": "Brevifolia",
-    "description": "Starter blog using Forestry CMS with Gridsome.",
-    "contact": {
-      "email": "info@forestry.io",
-      "twitter_handle": "forestryio",
-      "github_handle": "forestryio"
-    },
-    "primary_color": "#ACCAC5",
-    "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
-  }
-  
+  "title": "Ramiro Delgado's Portfolio",
+  "description": "My portfolio website to showcase some of my work, thanks to Forestry && Gridsome.<3 !!!",
+  "contact": {
+    "email": "ramirodelgadocortes@gmail.com",
+    "twitter_handle": "ramiro_delgado",
+    "github_handle": "ramirodelgado"
+  },
+  "primary_color": "#ACCAC5",
+  "repository_url": "https://github.com/kendallstrautman/starter-blog-gridsome"
+}
